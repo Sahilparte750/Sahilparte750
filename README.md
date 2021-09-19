@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sahilparte750(https://github.com/Sahilparte750)
+- 👨‍💻 All of my projects are available at [https://github.com/Sahilparte750/Sahilparte750]
 
 - 💬 Ask me about **React && JavaScript**
 
